@@ -11,7 +11,7 @@
 - 👯 I’m looking to collaborate on **opensource projects.**
 - 📫 How to reach me: **vaibhavgawali510@gmail.com.**
 
-The crossover between design and programming has always been of interest to me. I have a wide range of skills that include back-end development using open source technologies (NodeJs, Python),front-end development (ReactJs, HTML5, CSS3, Javascript, Responsive),database(MongoDB,Mysql).
+Passionate about coding and technical expertise to carry out innovative ideas with excellent problem-solving skills.The crossover between design and programming has always been of interest to me. I have a wide range of skills that include back-end development using open source technologies (NodeJs, Python),front-end development (ReactJs, HTML5, CSS3, Javascript, Responsive),database(MongoDB,Mysql).
 
 <div>
   <h4>🏆 Github Profile Trophy</h4>
