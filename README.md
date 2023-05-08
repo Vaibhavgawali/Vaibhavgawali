@@ -1,10 +1,15 @@
 ### Hi Developers 👋
 
-<!-- [![Linkedin Badge](https://img.shields.io/badge/-Aakash-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aakash--01629954/)](https://www.linkedin.com/in/aakash--01629954/)
-[![Website Badge](https://img.shields.io/badge/WebSite-Aakash-green)](https://www.akash) -->
+[![Linkedin Badge](https://img.shields.io/badge/-Aakash-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aakash--01629954/)](https://www.linkedin.com/in/aakash--01629954/)
+<!-- [![Website Badge](https://img.shields.io/badge/WebSite-Aakash-green)](https://www.akash) -->
+
+
+- 🌱 I’m currently learning **React and Node.**
+- 👯 I’m looking to collaborate on **opensource projects.**
+- 📫 How to reach me: **vaibhavgawali510@gmail.com.**
 
 I'm
-Full Stack Developer
+developer
 The crossover between design and programming has always been of interest to me. I have a wide range of skills that include back-end development using open source technologies (NodeJs, Python),front-end development (ReactJs, HTML5, CSS3, Javascript, Responsive),database(MongoDB,Mysql).
 
 
@@ -51,7 +56,7 @@ Languages and Tools:
     </a>
   
 
-![](https://activity-graph.herokuapp.com/graph?username=aakashdeveloper&theme=react-dark&area=true)
+<!-- ![](https://activity-graph.herokuapp.com/graph?username=aakashdeveloper&theme=react-dark&area=true) -->
 
 
 <!--
