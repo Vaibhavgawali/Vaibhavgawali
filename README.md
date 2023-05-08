@@ -10,8 +10,6 @@
 - 👯 I’m looking to collaborate on **opensource projects.**
 - 📫 How to reach me: **vaibhavgawali510@gmail.com.**
 
-I'm
-developer
 The crossover between design and programming has always been of interest to me. I have a wide range of skills that include back-end development using open source technologies (NodeJs, Python),front-end development (ReactJs, HTML5, CSS3, Javascript, Responsive),database(MongoDB,Mysql).
 
 
