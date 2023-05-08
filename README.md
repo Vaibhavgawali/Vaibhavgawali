@@ -2,8 +2,8 @@
 
 <!--[![Linkedin Badge](https://img.shields.io/badge/-Aakash-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aakash--01629954/)](https://www.linkedin.com/in/aakash--01629954/)
 [![Website Badge](https://img.shields.io/badge/WebSite-Aakash-green)](https://www.akash) -->
-[![Linkedin Badge](https://img.shields.io/badge/-Aakash-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://in.linkedin.com/in/vaibhav-gawali-0826651b6/)]
-(https://in.linkedin.com/in/vaibhav-gawali-0826651b6/)
+[![Linkedin Badge](https://img.shields.io/badge/-Vaibhav-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://in.linkedin.com/in/vaibhav-gawali-0826651b6/)
+
 
 - 🌱 I’m currently learning **React and Node.**
 - 👯 I’m looking to collaborate on **opensource projects.**
