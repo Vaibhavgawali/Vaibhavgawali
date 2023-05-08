@@ -1,10 +1,11 @@
-### Hi Developers 👋 ,I'm Vaibhav Gawali
+### Hi Developers 👋  I'm Vaibhav Gawali
 
 <!--[![Linkedin Badge](https://img.shields.io/badge/-Aakash-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aakash--01629954/)](https://www.linkedin.com/in/aakash--01629954/)
 [![Website Badge](https://img.shields.io/badge/WebSite-Aakash-green)](https://www.akash) -->
-[![Linkedin Badge](https://img.shields.io/badge/-Vaibhav-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vaibhav-gawali-0826651b6/)]
-(https://in.linkedin.com/in/vaibhav-gawali-0826651b6/)
+<!-- [![Linkedin Badge](https://img.shields.io/badge/-Vaibhav-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vaibhav-gawali-0826651b6/)]
+(https://in.linkedin.com/in/vaibhav-gawali-0826651b6/) -->
 
+![Visitor Count](https://profile-counter.glitch.me/Vaibhavgawali/count.svg)
 
 - 🌱 I’m currently learning **React and Node.**
 - 👯 I’m looking to collaborate on **opensource projects.**
@@ -12,6 +13,12 @@
 
 The crossover between design and programming has always been of interest to me. I have a wide range of skills that include back-end development using open source technologies (NodeJs, Python),front-end development (ReactJs, HTML5, CSS3, Javascript, Responsive),database(MongoDB,Mysql).
 
+<div>
+  <h4>🏆 Github Profile Trophy</h4>
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=Vaibhavgawali&column=7"/>
+  </a>
+</div>
 
 Languages and Tools: 
 
@@ -55,8 +62,13 @@ Languages and Tools:
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" />
     </a>
   
+  <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=Vaibhavgawali&show_icons=true&locale=en" alt="Vaibhavgawali" /></p><br><br><br><br><br><br><br><br><br>
 
-<!-- ![](https://activity-graph.herokuapp.com/graph?username=aakashdeveloper&theme=react-dark&area=true) -->
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=Vaibhavgawali&" alt="Vaibhavgawali" /></p><br><br><br><br><br><br><br><br><br><br>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Vaibhavgawali&show_icons=true&locale=en&layout=compact" alt="Vaibhavgawali" /></p>
+
+![](https://activity-graph.herokuapp.com/graph?username=aakashdeveloper&theme=react-dark&area=true)
 
 
 <!--
